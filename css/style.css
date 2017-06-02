@@ -1,0 +1,31 @@
+@import url("reset.css");
+#header {
+  height: 72px;
+  background: #f2f2f2;
+}
+#header img {
+  margin-top: 22px;
+}
+#lue {
+  margin-top: 12px;
+  color: #848484;
+  font-size: 16px;
+}
+#txt {
+  width: 140px;
+  height: 45px;
+  border: #3aab96 solid 1px;
+  color: #3aab96;
+  background: white;
+  border-radius: 30px;
+  font-size: 18px;
+}
+#txt2 {
+  width: 140px;
+  height: 45px;
+  border: #ffcb31 solid 1px;
+  color: #5a5a5a;
+  background: white;
+  border-radius: 30px;
+  font-size: 18px;
+}
